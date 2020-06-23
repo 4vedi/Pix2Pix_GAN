@@ -17,4 +17,4 @@ The Pix2Pix GAN has been demonstrated on a range of image-to-image translation t
      
 Now that we are familiar with the Pix2Pix GAN, let’s prepare a dataset that we can use with image-to-image translation.</br>
 
-[!]
+![Plot of Three Image Pairs Showing Satellite Images (top) and Google M…](https://github.com/4vedi/Pix2Pix_GAN/blob/master/Plot1.png)
