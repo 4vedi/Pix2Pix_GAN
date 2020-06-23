@@ -17,6 +17,14 @@ The Pix2Pix GAN has been demonstrated on a range of image-to-image translation t
      
 Now that we are familiar with the Pix2Pix GAN, let’s prepare a dataset that we can use with image-to-image translation.</br>
 
+<h3> The dataset is provided on the pix2pix website and can be downloaded as a 255- megabyte zip file. </h3> </br>
+• Download Maps Dataset (maps.tar.gz) http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz </br>
+Download the dataset and unzip it into your current working directory. This will create a directory called “maps” with the following structure: </br>
+1 maps </br>
+2 ├── train </br >3 └── val </br>
+The train folder contains 1,097 images, whereas the validation dataset contains 1,099 images. </br>
+Images have a digit filename and are in JPEG format. Each image is 1,200 pixels wide and 600 pixels tall and contains both the satellite image on the left and the Google maps image on the right.  </br>
+
 ![Plot of Three Image Pairs Showing Satellite and Google maps Images](https://github.com/4vedi/Pix2Pix_GAN/blob/master/Plot1.png)
 
 <h2> Output after 10 epochs </h2> </br>
