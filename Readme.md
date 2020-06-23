@@ -18,3 +18,26 @@ The Pix2Pix GAN has been demonstrated on a range of image-to-image translation t
 Now that we are familiar with the Pix2Pix GAN, let’s prepare a dataset that we can use with image-to-image translation.</br>
 
 ![Plot of Three Image Pairs Showing Satellite and Google maps Images](https://github.com/4vedi/Pix2Pix_GAN/blob/master/Plot1.png)
+
+<h2> Output after 10 epochs </h2> </br>
+
+![Plot after 10 epochs](https://github.com/4vedi/Pix2Pix_GAN/blob/master/Plot2.png)
+
+</br>
+<h2> Output after 30k epochs </h2> </br>
+
+![Plot after 30k epochs](https://github.com/4vedi/Pix2Pix_GAN/blob/master/Plot3.png)
+
+</br>
+
+<h1>Conclusion:</h1> </br>
+1) The desired Image to Image translation is done from Sattelite data to Google Maps and can be implemented vice-versa.</br>
+2) It is also concluded that number of epochs does not make a huge difference in the final result. </br>
+
+<h3> What's next? </h3> </br>
+• Standalone Satellite. Develop an example of translating standalone Google map images to satellite images, as we did for satellite to Google map images. </br>
+• New Image. Locate a satellite image for an entirely new location and translate it to a Google map and consider the result compared to the actual image in Google maps. </br>
+• More Training. Continue training the model for another 100 epochs and evaluate whether the additional training results in further improvements in image quality. </br>
+• Image Augmentation. Use some minor image augmentation during training as described in the Pix2Pix paper and evaluate whether it results in better quality generated images </br>
+
+# THANK YOU :)
