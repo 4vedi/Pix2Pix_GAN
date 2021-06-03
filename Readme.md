@@ -47,5 +47,3 @@ Images have a digit filename and are in JPEG format. Each image is 1,200 pixels 
 • New Image. Locate a satellite image for an entirely new location and translate it to a Google map and consider the result compared to the actual image in Google maps. </br>
 • More Training. Continue training the model for another 100 epochs and evaluate whether the additional training results in further improvements in image quality. </br>
 • Image Augmentation. Use some minor image augmentation during training as described in the Pix2Pix paper and evaluate whether it results in better quality generated images </br>
-
-# THANK YOU :)
