@@ -1,6 +1,6 @@
 
 # Develop a Pix2Pix GAN for Image-to-Image Translation </br>
-(This project is a part of my Summer Internship 2020 from OSI with IIPC/TBI/Innovation Centre, KIET) </br>
+(This project is a part of my Summer Internship 2020 from Makers Fablab) </br>
 
 The Pix2Pix Generative Adversarial Network, or GAN, is an approach to training a deep convolutional neural network for image-to-image translation tasks.
 The careful configuration of architecture as a type of image-conditional GAN allows for both the generation of large images compared to prior GAN models (e.g. such as 256×256 pixels) and the capability of performing well on a variety of different image-to- image translation tasks.
